@@ -2,10 +2,10 @@
 
 **`Aspirante a Engenheiro de Software`**
 
-Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusão do ensino médio técnico profissionalizante, com fogo em Análise e Desenvolvimento de Sistemas. Atualmente, também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusão do ensino médio técnico profissionalizante, com fogo em Análise e Desenvolvimento de Sistemas. Atualmente, tenho um perfil voltado a conhecimentos básicos e templates de front-end que disponibilizo para o pessoal que me acompanha atráves do perfil do instagram chamado "[lucasismaelbr](https://www.instagram.com/lucasismaelbr/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@lucasismaelbr?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -19,18 +19,18 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/lucasismaelbr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/lucasismaelbr?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/lucasismaelbr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
