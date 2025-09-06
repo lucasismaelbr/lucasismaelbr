@@ -2,7 +2,7 @@
 
 **`Aspirante a Engenheiro de Software`**
 
-Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusão do ensino médio técnico profissionalizante, com foco em Análise e Desenvolvimento de Sistemas. Atualmente, tenho um perfil no [instagram](https://www.instagram.com/lucasismaelbr/)" voltado a conhecimentos básicos sobre programação para pessoas que estão iniciando, lá também disponibilizo alguns templates de sites e landing-pages que ultilizo para projetos pessoais e freelancers.
+Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusão do ensino médio técnico profissionalizante, com foco em Análise e Desenvolvimento de Sistemas. Atualmente, tenho um perfil no ["instagram](https://www.instagram.com/lucasismaelbr/)" voltado a conhecimentos básicos sobre programação para pessoas que estão iniciando, lá também disponibilizo alguns templates de sites e landing-pages que ultilizo para projetos pessoais e freelancers.
 
 <p align="left">
     <a href="https://www.youtube.com/@lucasismaelbr?sub_confirmation=1">
