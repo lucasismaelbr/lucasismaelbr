@@ -2,7 +2,7 @@
 
 **`Aspirante a Engenheiro de Software`**
 
-Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusão do ensino médio técnico profissionalizante, com foco em Análise e Desenvolvimento de Sistemas. Atualmente, tenho um perfil no ["instagram](https://www.instagram.com/lucasismaelbr/)" voltado a conhecimentos básicos sobre programação para pessoas que estão iniciando, lá também disponibilizo alguns templates de sites e landing-pages que ultilizo para projetos pessoais e freelancers.
+Me chamo Lucas Ismael, estou fazendo a conclusão do ensino médio, junto da formação em um curso técnico profissionalizante em Análise e Desenvolvimento de Sistemas. Estou cursando ele atráves da instuição do Colégio Estadual Prefeito Joaquim Da Silva Mafra no período noturno, previsão de término para 2026.
 
 <p align="left">
     <a href="https://www.youtube.com/@lucasismaelbr?sub_confirmation=1">
@@ -55,6 +55,9 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<!--
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -63,6 +66,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -71,6 +75,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -79,6 +84,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -87,6 +93,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -95,6 +102,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -103,14 +111,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="PHP" 
@@ -119,14 +120,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JQuery" 
@@ -135,6 +129,7 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -152,8 +147,11 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+-->
+
 <br/>
 <br/>
+
 
 ### 📊 Estatísticas
 
@@ -163,14 +161,14 @@ Me chamo Lucas Ismael, tenho 16 anos e sou do Paraná. estou fazendo a conclusã
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasismaelbr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
