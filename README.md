@@ -1,8 +1,20 @@
-# 🧑‍💻 Lucas Ismael
+# 🧑‍💻 Sobre Lucas Ismael
 
 **`Aspirante a Engenheiro de Software`**
 
-Me chamo Lucas Ismael, estou fazendo a conclusão do ensino médio, junto da formação em um curso técnico profissionalizante em Análise e Desenvolvimento de Sistemas. Estou cursando ele atráves da instuição do Colégio Estadual Prefeito Joaquim Da Silva Mafra no período noturno, previsão de término para 2026.
+## 🚀 Perfil Técnico
+Estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas** com:
+- 🧠 Paixão por resolver problemas complexos através de código
+- 🔍 Habilidade aguçada para debugging e otimização
+- 🌱 Constantemente aprendendo novas tecnologias
+
+## 🎓 Formação Acadêmica
+- **Técnico em ADS**  
+  Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
+- **Certificações Alura**:
+  - HTTP: Entendendo a web por baixo dos panos
+  - JavaScript: Explorando a Linguagem
+  - HTML5 e CSS3 parte 1: crie uma página da Web 
 
 <p align="left">
     <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers">
