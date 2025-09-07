@@ -27,7 +27,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucas-fsociety" height="50" width="50" src="https://c.tenor.com/UCJG6CmhNXIAAAAd/tenor.gif">
+  <img align="right" alt="Lucas-fsociety" src="https://cdn.discordapp.com/attachments/1093664663406915584/1414276813395464242/tenor.gif?ex=68befb6c&is=68bda9ec&hm=dcb0429b6b870de0a70804b7ee7724cabb0e033462d924cb913b506f75e28865&">
 </div>
 
 <br/>
