@@ -2,19 +2,15 @@
 
 **`Aspirante a Engenheiro de Software`**
 
-## 🚀 Perfil Técnico
-Estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas** com:
-- 🧠 Paixão por resolver problemas complexos através de código
-- 🔍 Habilidade aguçada para debugging e otimização
-- 🌱 Constantemente aprendendo novas tecnologias
-
 ## 🎓 Formação Acadêmica
-- **Técnico em ADS**  
+- **Curso Técnico em ADS**  
   Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
 - **Certificações Alura**:
   - HTTP: Entendendo a web por baixo dos panos
   - JavaScript: Explorando a Linguagem
   - HTML5 e CSS3 parte 1: crie uma página da Web 
+
+- 🌱 Constantemente aprendendo novas tecnologias
 
 <p align="left">
     <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers">
