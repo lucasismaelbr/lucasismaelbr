@@ -10,8 +10,6 @@
   - JavaScript: Explorando a Linguagem
   - HTML5 e CSS3 parte 1: crie uma página da Web 
 
-- 🌱 Constantemente aprendendo novas tecnologias
-
 <div align="left">
     <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers" target="_blank"> <img src="https://custom-icon-badges.demolab.com/github/stars/lucasismaelbr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank"> </a>
     <a href="https://github.com/lucasismaelbr?tab=followers" target="_blank"> <img src="https://custom-icon-badges.demolab.com/github/followers/lucasismaelbr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" target="_blank"> </a>
@@ -36,6 +34,6 @@
 ### 📊 Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasismaelbr&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasismaelbr&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
