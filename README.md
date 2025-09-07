@@ -4,7 +4,7 @@
 
 ## 🎓 Formação Acadêmica
 - **Curso Técnico em ADS**  
-  Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
+  - Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
 - **Certificações Alura**:
   - HTTP: Entendendo a web por baixo dos panos
   - JavaScript: Explorando a Linguagem
