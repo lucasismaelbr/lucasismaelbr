@@ -8,7 +8,8 @@
 - **Certificações Alura**:
   - HTTP: Entendendo a web por baixo dos panos
   - JavaScript: Explorando a Linguagem
-  - HTML5 e CSS3 parte 1: crie uma página da Web 
+  - HTML5 e CSS3 parte 1: crie uma página da Web
+  - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 
 <div align="left">
     <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers" target="_blank"> <img src="https://custom-icon-badges.demolab.com/github/stars/lucasismaelbr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank"> </a>
