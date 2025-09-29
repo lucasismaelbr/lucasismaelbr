@@ -1,6 +1,4 @@
-# 🧑‍💻 Sobre Lucas Ismael
-
-**`Aspirante a Engenheiro de Software`**
+# 🧑‍💻 Lucas Ismael | Dev Front-End
 
 ## 🎓 Formação Acadêmica
 - **Curso Técnico em ADS**  
