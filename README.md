@@ -36,5 +36,5 @@
 
 <div>
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" alt="GitHub Stats" height="200" src="https://github.com/lucasismaelbr/github-readme-stats" />
 </div>
