@@ -35,6 +35,6 @@
 ### 📊 Estatísticas
 
 <div>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr" />
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr&show_icons=true&theme=dark" />
   <img align="left" alt="GitHub Stats" height="200" src="https://github.com/lucasismaelbr/github-readme-stats" />
 </div>
