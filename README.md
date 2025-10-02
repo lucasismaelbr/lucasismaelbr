@@ -12,6 +12,7 @@
   - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
   - HTML5 e CSS3 parte 4: avançando no CSS
   - HTML e CSS: praticando HTML/CSS
+  - Git e GitHub: repositório, commit e versões
   - JavaScript: Explorando a Linguagem
 
 <div align="left">
