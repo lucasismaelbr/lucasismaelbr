@@ -1,5 +1,4 @@
-# 🧑‍💻 Lucas Ismael | Dev Front-End
-
+# 🧑‍💻 Lucas Ismael | Aspirante Computer Engineer
 ## 🎓 Formação Acadêmica
 - **Curso Técnico em ADS**  
   - Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
@@ -18,7 +17,7 @@
 <div align="left">
     <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers" target="_blank"> <img src="https://custom-icon-badges.demolab.com/github/stars/lucasismaelbr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank"> </a>
     <a href="https://github.com/lucasismaelbr?tab=followers" target="_blank"> <img src="https://custom-icon-badges.demolab.com/github/followers/lucasismaelbr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" target="_blank"> </a>
-    <a href="https://instagram.com/lucasismaelbr" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+    <a href="https://instagram.com/lk.null" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
     <a href="https://www.linkedin.com/in/lucasismaelbr" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
 
