@@ -1,6 +1,6 @@
 # 🧑‍💻 Lucas Ismael | Aspirante Computer Engineer
 ## 🎓 Formação Acadêmica
-- **Curso Técnico em ADS**  
+- **Técnico em Desenvolvimento de Sistemas**  
   - Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
 
 ## Certificações Alura:
@@ -38,10 +38,6 @@
 <br/>
 
 
-<!--### 📊 Estatísticas
+### 📊 Estatísticas
 
-<div>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=lucasismaelbr&show_icons=true&theme=dark" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasismaelbr&layout=compact" />
-</div>
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lucasismaelbr&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=lucasismaelbr&langs_count=4&theme=transparent)
