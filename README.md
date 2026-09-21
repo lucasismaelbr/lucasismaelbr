@@ -4,7 +4,7 @@
   - Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
 
 ## Certificações Alura:
-- Programação Front-End:
+- Programação Front-side:
   - HTTP: Entendendo a web por baixo dos panos
   - HTML5 e CSS3 parte 1: crie uma página da Web
   - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
@@ -13,6 +13,10 @@
   - HTML e CSS: praticando HTML/CSS
   - Git e GitHub: repositório, commit e versões
   - JavaScript: Explorando a Linguagem
+
+## Certificações Curso em Vídeo:
+- Programação Back-side
+  - Curso de PHP Moderno: Módulo 01 [40 HORAS] 
 
 <div align="left">
     <a href="https://github.com/lucasismaelbr?tab=repositories&sort=stargazers" target="_blank"> <img src="https://custom-icon-badges.demolab.com/github/stars/lucasismaelbr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank"> </a>
