@@ -41,6 +41,5 @@
 
 
 ### 📊 Estatísticas
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lucasismaelbr&langs_count=3&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=lucasismaelbr&langs_count=3&theme=dark_github)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lucasismaelbr&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=lucasismaelbr&include_all_commits=true&theme=dark_github)
